@@ -4,7 +4,7 @@
 #
 Name     : msm
 Version  : 0.5.19
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ee/ee/8e1dd6ceefea93e2c7009ad7d9b2fb9fcfacad8321042611a4f1179f3e86/msm-0.5.19.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ee/ee/8e1dd6ceefea93e2c7009ad7d9b2fb9fcfacad8321042611a4f1179f3e86/msm-0.5.19.tar.gz
 Summary  : Mycroft Skills Manager
@@ -66,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1541254626
+export SOURCE_DATE_EPOCH=1541255491
 python3 setup.py build
 
 %install

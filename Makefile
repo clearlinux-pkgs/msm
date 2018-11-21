@@ -1,5 +1,5 @@
 PKG_NAME := msm
-URL = https://files.pythonhosted.org/packages/ee/ee/8e1dd6ceefea93e2c7009ad7d9b2fb9fcfacad8321042611a4f1179f3e86/msm-0.5.19.tar.gz
+URL = https://files.pythonhosted.org/packages/e1/ff/63c94f7e989b2591e0a7cd637eae3230bc67dfe183447b956c5488520fad/msm-0.6.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

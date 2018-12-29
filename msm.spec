@@ -4,7 +4,7 @@
 #
 Name     : msm
 Version  : 0.6.3
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/8d/07/7fd52f9c7690925d48fffea97ec594beee797a75afd1e082ffe7b90dd341/msm-0.6.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8d/07/7fd52f9c7690925d48fffea97ec594beee797a75afd1e082ffe7b90dd341/msm-0.6.3.tar.gz
 Summary  : Mycroft Skills Manager

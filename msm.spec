@@ -4,7 +4,7 @@
 #
 Name     : msm
 Version  : 0.8.7
-Release  : 25
+Release  : 26
 URL      : https://files.pythonhosted.org/packages/f3/51/f0be5edba5d9e7a31b0b11857bff1324916bd2dd209314b97e1eacbed766/msm-0.8.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f3/51/f0be5edba5d9e7a31b0b11857bff1324916bd2dd209314b97e1eacbed766/msm-0.8.7.tar.gz
 Summary  : Mycroft Skills Manager
@@ -59,6 +59,7 @@ python components for the msm package.
 Summary: python3 components for the msm package.
 Group: Default
 Requires: python3-core
+Provides: pypi(msm)
 
 %description python3
 python3 components for the msm package.
@@ -73,7 +74,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1582818958
+export SOURCE_DATE_EPOCH=1583174812
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar

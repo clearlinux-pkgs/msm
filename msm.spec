@@ -4,7 +4,7 @@
 #
 Name     : msm
 Version  : 0.8.8
-Release  : 28
+Release  : 29
 URL      : https://files.pythonhosted.org/packages/7e/42/66f2d39be2767b064d0c384b764ef18aae11344e618287f40fea5c84c866/msm-0.8.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7e/42/66f2d39be2767b064d0c384b764ef18aae11344e618287f40fea5c84c866/msm-0.8.8.tar.gz
 Summary  : Mycroft Skills Manager
